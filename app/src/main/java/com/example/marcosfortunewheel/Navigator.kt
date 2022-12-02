@@ -7,6 +7,7 @@ import androidx.navigation.navArgument
 import androidx.navigation.compose.composable
 import com.example.marcosfortunewheel.screens.GameScreen
 import com.example.marcosfortunewheel.screens.LoseScreen
+//this was taken from a youtube video, link in readme
 
 @Composable
 fun Navigation() {

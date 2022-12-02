@@ -1,5 +1,7 @@
 package com.example.marcosfortunewheel
 
+//this was taken from a youtube video, link in readme
+
 sealed class Screen(val route : String){
 
     object GameScreen : Screen("playscreen")
